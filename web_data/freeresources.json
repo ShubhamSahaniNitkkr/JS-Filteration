@@ -1,0 +1,250 @@
+{
+		"exams": [
+			{
+				"course": "Belts",
+				"id":"SBIPO",
+				"url": "https://www.youtube.com/embed/XS3OrwLXtiU"
+      },
+      {
+				"course": "Watches",
+				"id":"IBPSPO",
+				"url": "https://www.youtube.com/embed/XS3OrwLXtiU"
+      },
+      {  "course": "Hoodies",
+				"id":"Hoodies",
+				"url": "https://www.youtube.com/embed/XS3OrwLXtiU"
+      },
+
+      {  "course": "Tops",
+				"id":"IBPSClerk",
+				"url": "https://www.youtube.com/embed/XS3OrwLXtiU"
+      },
+      {  "course": "T-shirts",
+				"id":"T-shirts",
+				"url": "https://www.youtube.com/embed/XS3OrwLXtiU"
+      },
+      {  "course": "Shirts",
+					"id":"SBISO",
+					"url": "https://www.youtube.com/embed/XS3OrwLXtiU"
+      },
+      {  "course": "Jeans",
+					"id":"IBPSRRB",
+					"url": "https://www.youtube.com/embed/XS3OrwLXtiU"
+      }
+		],
+
+
+
+		"resources": [
+			{
+				"no":1,
+				"course": "Belts",
+				"url": "https://www.youtube.com/embed/XS3OrwLXtiU",
+				"id":"SBIPO",
+				"filetype":"video","download":"a.mp4",
+				"thumb":"q.png"
+
+
+
+      },
+			{ "no":2,
+				"course": "Hoodies",
+				"url": "https://www.youtube.com/embed/XS3OrwLXtiU",
+				"id":"Hoodies",
+				"filetype":"video","download":"a.mp4",
+				"thumb":"q.png"
+
+
+			},
+
+      {
+				"no":3,
+				"course": "Watches",
+				"url": "test.pdf",
+				"id":"IBPSPO",
+				"filetype":"file",
+				"thumb":"final.png"
+
+      },
+			{
+				"no":4,
+				"course": "Watches",
+				"url": "https://www.youtube.com/embed/XS3OrwLXtiU",
+					"id":"IBPSPO",
+				"filetype":"video","download":"a.mp4",
+				"thumb":"q.png"
+
+			},
+			{
+				"no":5,
+				"course": "Watches",
+				"url": "https://www.youtube.com/embed/XS3OrwLXtiU",
+					"id":"IBPSPO",
+				"filetype":"video","download":"a.mp4",
+				"thumb":"q.png"
+
+			},
+			{ "no":6,
+				"course": "Watches",
+				"url": "test.pdf",
+				"id":"IBPSPO",
+				"filetype":"file",
+				"thumb":"final.png"
+
+			},
+      { "no":7,
+				"course": "Hoodies",
+				"url": "https://www.youtube.com/embed/XS3OrwLXtiU",
+				"id":"Hoodies",
+				"filetype":"video","download":"a.mp4",
+				"thumb":"q.png"
+
+      },
+			{
+				"no":8,
+				"course": "Belts",
+				"url": "test.pdf",
+				"id":"SBIPO",
+				"filetype":"file",
+				"thumb":"final.png"
+
+
+      },
+      { "no":9,
+				"course": "SBI Clerk",
+				"url": "https://www.youtube.com/embed/XS3OrwLXtiU",
+					"id":"SBIClerk",
+				"filetype":"video","download":"a.mp4",
+				"thumb":"q.png"
+
+      },
+      { "no":10,
+				"course": "IBPS Clerk",
+				"url": "test.pdf",
+				"id":"IBPSClerk",
+				"filetype":"file",
+				"thumb":"final.png"
+
+
+      },
+			{ "no":11,
+				"course": "IBPS Clerk",
+				"url": "https://www.youtube.com/embed/XS3OrwLXtiU",
+				"id":"IBPSClerk",
+				"filetype":"video","download":"a.mp4",
+				"thumb":"q.png"
+
+			},
+			{ "no":12,
+				"course": "IBPS Clerk",
+					"url": "test.pdf",
+					"id":"IBPSClerk",
+					"filetype":"file",
+					"thumb":"final.png"
+
+
+	    },
+      { "no":13,
+				 "course": "T-shirts",
+				"url": "https://www.youtube.com/embed/XS3OrwLXtiU",
+					"id":"T-shirts",
+				"filetype":"video","download":"a.mp4",
+				"thumb":"q.png"
+
+
+      },
+			{ "no":14,
+				 "course": "T-shirts",
+				"url": "test.pdf",
+				"id":"T-shirts",
+				"filetype":"file",
+				"thumb":"final.png"
+
+
+
+			},
+			{ "no":15,
+				 "course": "T-shirts",
+				"url": "https://www.youtube.com/embed/XS3OrwLXtiU",
+				"id":"T-shirts",
+				"filetype":"video","download":"a.mp4",
+				"thumb":"q.png"
+
+
+      },
+      { "no":16,
+				"course": "Shirts",
+				"url": "test.pdf",
+				"id":"SBISO",
+				"filetype":"file",
+				"thumb":"final.png"
+
+
+      },
+			{ "no":17,
+				"course": "Shirts",
+				"url": "https://www.youtube.com/embed/XS3OrwLXtiU",
+					"id":"SBISO",
+				"filetype":"video","download":"a.mp4",
+				"thumb":"q.png"
+
+      },
+			{ "no":18,
+				"course": "Shirts",
+				"url": "test.pdf",
+				"id":"SBISO",
+				"filetype":"file",
+				"thumb":"final.png"
+
+      },
+      { "no":19,
+				"course": "Jeans",
+				"url": "https://www.youtube.com/embed/XS3OrwLXtiU",
+				"id":"IBPSRRB",
+				"filetype":"video","download":"a.mp4",
+				"thumb":"q.png"
+
+      },
+			{ "no":20,
+				"course": "Jeans",
+				"url": "test.pdf",
+				"id":"IBPSRRB",
+				"filetype":"file",
+				"thumb":"final.png"
+
+			},
+			{ "no":21,
+				"course": "Jeans",
+				"url": "https://www.youtube.com/embed/XS3OrwLXtiU",
+						"id":"IBPSRRB",
+				"filetype":"video","download":"a.mp4",
+				"thumb":"q.png"
+
+			},
+			{ "no":22,
+				"course": "Jeans",
+				"url": "test.pdf",
+				"id":"IBPSRRB",
+				"filetype":"file",
+				"thumb":"final.png"
+
+			},
+			{ "no":23,
+				"course": "Jeans",
+				"url": "https://www.youtube.com/embed/XS3OrwLXtiU",
+					"id":"IBPSRRB",
+				"filetype":"video","download":"a.mp4",
+				"thumb":"q.png"
+
+			},
+			  { "no":24,
+					"course": "Jeans",
+					"url": "test.pdf",
+					"id":"IBPSRRB",
+					"filetype":"file",
+					"thumb":"final.png"
+
+	      }
+		]
+
+}

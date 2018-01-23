@@ -1,0 +1,264 @@
+/* home page banner */
+.home_banner
+{
+    opacity: 4;
+    position:relative;
+}
+.home_banner .banner_img
+{
+    width: 100%;
+}
+.home_banner .overlay
+{
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    opacity: 0.6;
+    bottom: 0;
+    top: 0;
+    background: #003466;
+}
+.home_banner .banner_text
+{
+    position: absolute;
+    bottom: 3em;
+    color: #FFFFFF;
+    font-family: 'Roboto';
+}
+.home_banner .banner_text .big_text
+{
+    font-size:3.5em;
+    font-weight: 100;
+}
+.homepage_needs
+{
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+.homepage_needs .needs_blocks_wrapper
+{
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+.homepage_needs .needs_blocks
+{
+    padding: 1em;
+}
+.homepage_needs .needs_blocks_wrapper .block_text_bold
+{
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    font-weight: 600;
+    text-align: center;
+}
+.homepage_needs .needs_blocks_wrapper .block_text
+{
+    text-align: center;
+}
+.section_text
+{
+    font-size: 1.1em;
+    font-weight: 600;
+    text-align: center;
+}
+.bnk_btn
+{
+    font-weight: 500;
+    background-color: #06736F;
+    border: none;
+    border-radius: 3px;
+    color: #ffffff;
+}
+.section_signup_btn
+{
+    font-size: 1.2em;
+    margin-top: 0.5em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+/*homepage popular courses */
+.home_popular_courses
+{
+    padding-top: 3em;
+    background-color: #F8F8F8;
+}
+.home_popular_courses .popular_courses_wrapper
+{
+    margin-top: 2em;
+    margin-bottom: 3em;
+}
+.home_popular_courses .popular_courses_wrapper .card_item
+{
+    padding-bottom: 1em;
+}
+.home_popular_courses .popular_courses_wrapper .card_body
+{
+    background-color: #fff;
+    color: #003567;
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,.2), 0 1px 1px 0 rgba(0,0,0,.14), 0 2px 1px -1px rgba(0,0,0,.12);
+    -webkit-box-shadow: 0 1px 3px 0 rgba(0,0,0,.2), 0 1px 1px 0 rgba(0,0,0,.14), 0 2px 1px -1px rgba(0,0,0,.12);
+    -moz-box-shadow: 0 1px 3px 0 rgba(0,0,0,.2) , 0 1px 1px 0 rgba(0,0,0,.14) , 0 2px 1px -1px rgba(0,0,0,.12);
+    overflow: auto;
+}
+.home_popular_courses .popular_courses_wrapper .popular_card_text
+{
+    padding: 1em;
+    color: #000000;
+}
+.home_popular_courses .popular_courses_wrapper .card_body .card_tag
+{
+    color: #06736F;
+    font-weight: 600;
+}
+.home_popular_courses .popular_courses_wrapper .card_body .card_heading
+{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-size: 1.2em;
+    font-weight: 600;
+}
+.home_popular_courses .popular_courses_wrapper .card_body .card_course_duration
+{
+    font-size: 0.9em;
+    font-weight: 400;
+    padding-bottom: 1em;
+}
+.home_popular_courses .popular_courses_wrapper .card_body .card_course_desc
+{
+    font-size: 0.9em;
+    font-weight: 500;
+}
+.home_popular_courses .popular_courses_wrapper .card_body .card_course_price
+{
+    padding-top: 2em;
+    font-size: 1.3em;
+    font-weight: 500;
+}
+/* home success section */
+.home_success_section
+{
+    margin-top: 3em;
+}
+.home_success_section .home_success_wrapper
+{
+    margin-top: 2em;
+    margin-bottom: 3em;
+}
+.home_success_section .home_success_wrapper .section_video_wrapper
+{
+    background-color: #000;
+}
+.home_success_section .home_success_wrapper .bnkn_msg
+{
+    font-size: 1.2em;
+    font-weight: 500;
+}
+
+.home_success_section .home_success_wrapper .user_img_collection
+{
+    margin-top: 5em;
+}
+.home_success_section .home_success_wrapper .user_img_collection img
+{
+    border-width: 1px;
+    margin-right: -1.5em;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    height: 5em;
+}
+.home_success_section .home_success_wrapper .user_name_collection
+{
+    margin-top: 1em;
+    font-size: 0.9em;
+    font-weight: 500;
+}
+.home_success_section .home_success_wrapper .user_name_collection .bold_number
+{
+    color: #06736F;
+}
+/*top exams section*/
+.top_exams_section
+{
+    padding-top: 3em;
+    background-color: #F8F8F8;
+    padding-bottom: 3em;
+}
+.top_exams_section .top_exams_wrapper
+{
+    margin-top: 2em;
+    margin-bottom: 3em;
+}
+.top_exams_section .top_exams_wrapper .card_body
+{
+    background-color: #fff;
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,.2), 0 1px 1px 0 rgba(0,0,0,.14), 0 2px 1px -1px rgba(0,0,0,.12);
+    -webkit-box-shadow: 0 1px 3px 0 rgba(0,0,0,.2), 0 1px 1px 0 rgba(0,0,0,.14), 0 2px 1px -1px rgba(0,0,0,.12);
+    -moz-box-shadow: 0 1px 3px 0 rgba(0,0,0,.2) , 0 1px 1px 0 rgba(0,0,0,.14) , 0 2px 1px -1px rgba(0,0,0,.12);
+    height: 5em;
+    margin-right: 1em;
+    padding-top: 2.1em;
+    font-size: 1.3em;
+    font-weight: 500;
+    text-align: center;
+    cursor: pointer;
+}
+.top_exams_section .top_exams_wrapper .row_break
+{
+    margin: 1em;
+}
+@media screen and (max-width: 720px)
+{
+    .home_banner .banner_text
+    {
+        bottom: 1em;
+    }
+    .home_banner .banner_text .big_text
+    {
+        font-size: 1.4em;
+    }
+    .home_banner .banner_text .small_text
+    {
+        font-size:0.8em;
+    }
+    .home_success_section .home_success_wrapper .section_video_wrapper
+    {
+        margin-bottom: 1em;
+    }
+    .home_success_section .home_success_wrapper .section_video_wrapper iframe
+    {
+        height: auto;
+        width: 100%;
+    }
+    .home_success_section .home_success_wrapper .user_img_collection
+    {
+        margin-top: 2em;
+    }
+    .top_exams_section .top_exams_wrapper .card_body
+    {
+        margin-bottom: 1em;
+    }
+    .top_exams_section .top_exams_wrapper .row_break
+    {
+        margin: 0;
+    }
+    .top_exams_section .top_exams_wrapper
+    {
+        margin-left: 0.5em;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px)
+{
+    .top_exams_section .top_exams_wrapper .card_body
+    {
+        margin-right: 0.5em;
+    }
+
+    .home_success_section .home_success_wrapper .section_video_wrapper iframe
+    {
+        height: auto;
+        width: 100%;
+    }
+}

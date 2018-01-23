@@ -1,0 +1,309 @@
+{
+  "title":"basbeta",
+  "instructors":[
+                {
+                    "img_url":"../static/imgs/comphrensivecourseimages/circle.png",
+                    "name":"Pandhalraja U",
+                    "desc":"Quantitative Aptitude and Logical Reasoning Expert",
+                    "color":"red"
+                },
+                {
+                    "img_url":"../static/imgs/comphrensivecourseimages/circle.png",
+                    "name":"Shibin Benny",
+                    "desc":"English Language and Logical Reasoning Expert",
+                    "color":"blue"
+
+                },
+                {
+                    "img_url":"../static/imgs/comphrensivecourseimages/circle.png",
+                    "name":"Thanushya",
+                    "desc":"English Language and General Awareness Expert",
+                    "color":"green"
+
+                },
+                {
+                    "img_url":"../static/imgs/comphrensivecourseimages/circle.png",
+                    "name":"Anton Menezes",
+                    "desc":"Quantitative Aptitude and Logical Reasoning Expert",
+                    "color":"yellow"
+
+                }
+
+        ],
+
+        "videolinks":[
+                      {
+                        "tab":"0",
+                        "topic":"Nexus 5",
+                        "youtube_url":"https://www.youtube.com/embed/MXN1nmL-DQU"
+                      },
+                      {
+                      "tab":"1",
+                      "topic":"Apple watch",
+                        "youtube_url":"https://www.youtube.com/embed/BGbJ1hMlBuo"
+                      },
+                      {
+                        "tab":"2",
+                        "topic":"Moto g5",
+                        "youtube_url":"https://www.youtube.com/embed/sj6omGMMw_M"
+                      },
+                      {
+                        "tab":"3",
+                        "topic":"Oneplus 5",
+                        "youtube_url":"https://www.youtube.com/embed/5VCdkXOcxS4"
+                      },
+                      {
+                        "tab":"4",
+                        "topic":"Nokia 6",
+                        "youtube_url":"https://www.youtube.com/embed/5VCdkXOcxS4"
+                      }
+              ],
+
+              "tests":[
+                            {
+                              "icon":"../static/imgs/comphrensivecourseimages/circle.png",
+                              "test_title":"Lorem ipsum dolor sit amet, consectetur",
+                              "test_papers":"20 tests",
+                              "questions":"2150",
+                              "color":"red",
+                              "short_desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, "
+                            },
+                            {
+                              "icon":"../static/imgs/comphrensivecourseimages/circle.png",
+                              "test_title":"Lorem ipsum dolor sit amet, consectetur",
+                              "test_papers":"20 tests",
+                              "questions":"2150",
+                              "color":"green",
+
+                              "short_desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, "
+                            },
+                            {
+                              "icon":"../static/imgs/comphrensivecourseimages/circle.png",
+                              "test_title":"Lorem ipsum dolor sit amet, consectetur",
+                              "test_papers":"20 tests",
+                              "questions":"2150",
+                              "color":"blue",
+
+                              "short_desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, "
+                            },
+                            {
+                              "icon":"../static/imgs/comphrensivecourseimages/circle.png",
+                              "test_title":"Lorem ipsum dolor sit amet, consectetur",
+                              "test_papers":"20 tests",
+                              "questions":"2150",
+                              "color":"yellow",
+
+                              "short_desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, "
+                            },
+                            {
+                              "icon":"../static/imgs/comphrensivecourseimages/circle.png",
+                              "test_title":"Lorem ipsum dolor sit amet, consectetur",
+                              "test_papers":"20 tests",
+                              "questions":"2150",
+                              "color":"grey",
+
+                              "short_desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, "
+                            },
+                            {
+                              "icon":"../static/imgs/comphrensivecourseimages/circle.png",
+                              "test_title":"Lorem ipsum dolor sit amet, consectetur",
+                              "test_papers":"20 tests",
+                              "questions":"2150",
+                              "color":"SteelBlue",
+
+                              "short_desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, "
+                            },
+                            {
+                              "icon":"../static/imgs/comphrensivecourseimages/circle.png",
+                              "test_title":"Lorem ipsum dolor sit amet, consectetur",
+                              "test_papers":"20 tests",
+                              "questions":"2150",
+                              "color":"black",
+
+                              "short_desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, "
+                            },
+                            {
+                              "icon":"../static/imgs/comphrensivecourseimages/circle.png",
+                              "test_title":"Lorem ipsum dolor sit amet, consectetur",
+                              "test_papers":"20 tests",
+                              "questions":"2150",
+                              "color":"red",
+
+                              "short_desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, "
+                            },
+                            {
+                              "icon":"../static/imgs/comphrensivecourseimages/circle.png",
+                              "test_title":"Lorem ipsum dolor sit amet, consectetur",
+                              "test_papers":"20 tests",
+                              "questions":"2150",
+                              "color":"Blue",
+
+                              "short_desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, "
+                            },
+                            {
+                              "icon":"../static/imgs/comphrensivecourseimages/circle.png",
+                              "test_title":"Lorem ipsum dolor sit amet, consectetur",
+                              "test_papers":"20 tests",
+                              "questions":"2150",
+                              "color":"green",
+
+                              "short_desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, "
+                            },
+
+                            {
+                              "icon":"../static/imgs/comphrensivecourseimages/circle.png",
+                              "test_title":"Lorem ipsum dolor sit amet, consectetur",
+                              "test_papers":"20 tests",
+                              "questions":"2150",
+                              "short_desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, "
+                            }
+
+              ],
+
+              "exams":[
+                            {
+                              "title":"T-Shirts",
+                              "url":"sbi-po",
+                              "color":"#06736F"
+
+                            },
+                            {
+                              "title":"Jeans",
+                              "url":"sbi-clerk",
+                              "color":"#06736F"
+
+
+                            },
+                            {
+                              "title":"Joggers",
+                              "url":"sbi-po",
+                              "color":"#06736F"
+
+
+                            },
+                            {
+                              "title":"Shirts",
+                              "url":"ibps",
+                              "color":"#06736F"
+
+
+                            },
+                            {
+                              "title":"Watches",
+                              "url":"ibps-clerk",
+                              "color":"#06736F"
+
+
+                            },
+                            {
+                              "title":"Belts",
+                              "url":"ibps-rrb",
+                              "color":"#06736F"
+
+
+                            },
+                            {
+                              "title":"Bands",
+                              "url":"bob",
+                              "color":"#06736F"
+
+
+                            },
+                            {
+                              "title":"Bag Packs",
+                              "url":"rbi",
+                              "color":"#06736F"
+
+
+                            }
+                    ],
+
+                    "students":[
+                                  {
+                                    "image":"../static/imgs/comphrensivecourseimages/circle.png",
+                                    "name":"Payal Mishra",
+                                    "exam":"Good",
+                                    "roll_no":"12349532",
+                                    "color":"#06736F"
+
+
+                                  },
+
+                                  {
+                                    "image":"../static/imgs/comphrensivecourseimages/circle.png",
+                                    "name":"Pankaj Yadav ",
+                                    "exam":"Average",
+                                    "roll_no":"12332532",
+                                    "color":"#06736F"
+
+
+                                  },
+
+                                  {
+                                    "image":"../static/imgs/comphrensivecourseimages/circle.png",
+                                    "name":"Ankit Anand",
+                                    "exam":"Good",
+                                    "roll_no":"12349532",
+                                    "color":"#06736F"
+
+
+                                  },
+
+                                  {
+                                    "image":"../static/imgs/comphrensivecourseimages/circle.png",
+                                    "name":"Sudheer Meena",
+                                    "exam":"Good",
+                                    "roll_no":"12349532",
+                                    "color":"#06736F"
+
+
+                                  },
+
+                                  {
+                                    "image":"../static/imgs/comphrensivecourseimages/circle.png",
+                                    "name":"Mehul Raj",
+                                    "exam":"Good",
+                                    "roll_no":"24349532",
+                                    "color":"#06736F"
+
+
+                                  },
+
+                                  {
+                                    "image":"../static/imgs/comphrensivecourseimages/circle.png",
+                                    "name":"Mohit Garg",
+                                    "exam":"Bad",
+                                    "roll_no":"12342332",
+                                    "color":"#06736F"
+
+
+                                  },
+
+                                  {
+                                    "image":"../static/imgs/comphrensivecourseimages/circle.png",
+                                    "name":"Sahil Kashyap",
+                                    "exam":"Bad",
+                                    "roll_no":"12349532",
+                                    "color":"#06736F"
+
+
+                                  },
+
+                                  {
+                                    "image":"../static/imgs/comphrensivecourseimages/circle.png",
+                                    "name":"Rishabh Agrawal",
+                                    "exam":"Good",
+                                    "roll_no":"12349532",
+                                    "color":"#06736F"
+
+
+                                  }
+                          ],
+                          "youtubevideo":[
+                                        {
+                                          "url":"https://www.youtube.com/embed/Amc-S0HJBm0"
+
+                                        }
+                                    ]
+
+    }
